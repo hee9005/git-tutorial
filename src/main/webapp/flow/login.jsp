@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<h1>로.그.인</h1>
 
+<font>
+	ID <input type="text"/>
+	PASS <input type="text"/>
+</font>
 </body>
 </html>
