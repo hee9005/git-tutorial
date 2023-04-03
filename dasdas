@@ -1,0 +1,35 @@
+[33mcommit a4d11f9a778fba09a285b26dfd8701ea863fcc36[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: lynx741 <e900590@gmail.comgit config --global user.email hee900590@gmail.comgit config --global user.email e900590@gmail.com>
+Date:   Mon Apr 3 13:35:16 2023 +0900
+
+    회원가입처리완료
+
+[33mcommit 79ec542a69654410dafbc06e955a83dfd4f56d81[m
+Author: lynx741 <e900590@gmail.comgit config --global user.email hee900590@gmail.comgit config --global user.email e900590@gmail.com>
+Date:   Mon Apr 3 11:17:23 2023 +0900
+
+    로그인완료
+
+[33mcommit 55603df0573feb0f84ebfec416ffc2f37576cc9b[m
+Author: lynx741 <e900590@gmail.comgit config --global user.email hee900590@gmail.comgit config --global user.email e900590@gmail.com>
+Date:   Mon Apr 3 11:15:18 2023 +0900
+
+    로그인테스트
+
+[33mcommit b485194e3bce4c2a306193dff676044856fee484[m
+Author: lynx741 <e900590@gmail.comgit config --global user.email hee900590@gmail.comgit config --global user.email e900590@gmail.com>
+Date:   Mon Apr 3 11:06:25 2023 +0900
+
+    안정화된 버전
+
+[33mcommit 81354ed62e60373ebe5bf1007942259e0348933a[m
+Author: lynx741 <e900590@gmail.comgit config --global user.email hee900590@gmail.comgit config --global user.email e900590@gmail.com>
+Date:   Mon Apr 3 10:40:18 2023 +0900
+
+    웨컴페이지 수정
+
+[33mcommit c8bacd5128aedf773c69c3c153e5585998fc5171[m
+Author: lynx741 <e900590@gmail.comgit config --global user.email hee900590@gmail.comgit config --global user.email e900590@gmail.com>
+Date:   Mon Apr 3 10:34:37 2023 +0900
+
+    초기설정 완료
